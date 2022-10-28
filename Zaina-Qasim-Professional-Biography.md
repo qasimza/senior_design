@@ -55,9 +55,9 @@
 
 ## Skills
 
-**Programming Languages:** Java, Python, C++, HTML/CSS, JavaScript (JQuery and AJAX), MATLAB, VBA, SQL.
-**Operating Systems:** Unix, Linux, Windows
-**Tools:** Adobe InDesign, Adobe Illustrator, Adobe Dreamweaver, Visual Studio, Raspberry Pi, Microsoft Excel
+- **Programming Languages:** Java, Python, C++, HTML/CSS, JavaScript (JQuery and AJAX), MATLAB, VBA, SQL.
+- **Operating Systems:** Unix, Linux, Windows
+- **Tools:** Adobe InDesign, Adobe Illustrator, Adobe Dreamweaver, Visual Studio, Raspberry Pi, Microsoft Excel
 
 ## Areas of Interest
 
