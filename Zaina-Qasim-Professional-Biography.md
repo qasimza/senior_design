@@ -10,7 +10,7 @@
 
 ## Experience
 
-**_Firmware Engineering Intern,_** **Infinera Corporation, CA** **Jan 2022– Aug 2022**
+**_Firmware Engineering Intern_**, **Infinera Corporation, CA** **Jan 2022– Aug 2022**
 
 - 40+ hours/week.
 - Developed a tool for automatically deploying firmware from the artifactory. 
@@ -19,12 +19,12 @@
 - Implemented Pythonic testing framework for firmware testing as well as developed test cases for sanity testing.
 - Debugged the Object Help Editor tool used for editing object definitions as well as developed support for the latest project.
 
-**_ASIC Design Engineer,_** **Infinera Corporation, CA** **Jan 2021– Apr 2021**
+**_ASIC Design Engineer_**, **Infinera Corporation, CA** **Jan 2021– Apr 2021**
 - 40+ hours/week.
 - Developed pythonic infrastructure for interrupt service routine (ISR) implementation. 
 - Automated the generation of test cases.
 
-**_Logistics Analyst,_** **Infinera Corporation, CA** **May 2020 – Aug 2020**
+**_Logistics Analyst_**, **Infinera Corporation, CA** **May 2020 – Aug 2020**
 
 - 40+ hours/week
 - Optimized, tested and debugged post route health check and hierarchy analyzer tools.
@@ -35,19 +35,19 @@
 - Assisted students with assignments and in-class activities, proctoring and grading exams. 
 - Tutored students in freshman level courses including engineering design, calculus, physics and chemistry.
 
-**_ASIC Design Engineer,_** **Infinera Corporation, CA** **Aug 2019 – Dec 2019**
+**_ASIC Design Engineer_**, **Infinera Corporation, CA** **Aug 2019 – Dec 2019**
 - 40+ hours/week.
 - Improved the data analytics tool for analyzing ASIC libraries. 
 - Developed the python environment for chip validation as well as top level software infrastructure for functional testing.
 - Developed python register access infrastructure and test case automation.
 
-**_IT Consultant_****, Lindner College of Business, University of Cincinnati, OH  May 2019 – Aug 2019**
+**_IT Consultant_**, **Lindner College of Business, University of Cincinnati, OH  May 2019 – Aug 2019**
 - 32 - 40 hours/week.
 - Provided level 1 user service desk support. 
 - Provided assistance with email set-up and configuration, video conferencing and streaming.
 - Virus/spyware removal, software installation, wireless configuration, and troubleshooting.
 
-**_Head of IT and Design,_** **La Martiniere Girls’ College Model United Nations Club, India  Apr 2018 – Jun 2018**
+**_Head of IT and Design_**, **La Martiniere Girls’ College Model United Nations Club, India  Apr 2018 – Jun 2018**
 - 15 hours/week.
 - Designed, coded and maintained the official website, edited official trailers and promotional videos.  
 - Supervised a team of students in designing official written and digital media for LMGMUN 2018.
