@@ -1,9 +1,9 @@
 # Week 3 - Team Contract
 
 ## Team members
-Zaina Qasim
-qasimza@mail.uc.edu
-(513) 739-4757
+Zaina Qasim  
+qasimza@mail.uc.edu  
+(513) 739-4757  
 
 ## Meeting Expectations
 - Spend a minimum of 7 hrs./week on the Senior Design Project.
@@ -19,5 +19,5 @@ Since this is a one-person team, I will be taking on multiple roles depending on
 
 3.	Project Management and Organization: This includes the creation of the project timeline, identifying project milestones, project documentation, and communication with the project advisor. 
 
-* Note: Both (1) and (2) require testing and re-working the code for improvements until desired results are achieved. The desired results for the data science component include an accuracy threshold (which may be based on user satisfaction and other metrics), and an acceptable runtime and space complexity. The desired result for the Android/Web App is a fully functional application that can register a user, allow them to select songs and create a playlist based on their preferences for similarity measures when it comes to music. For this project, (1) will be prioritized over (2).*
+_Note: Both (1) and (2) require testing and re-working the code for improvements until desired results are achieved. The desired results for the data science component include an accuracy threshold (which may be based on user satisfaction and other metrics), and an acceptable runtime and space complexity. The desired result for the Android/Web App is a fully functional application that can register a user, allow them to select songs and create a playlist based on their preferences for similarity measures when it comes to music. For this project, (1) will be prioritized over (2)._
 
