@@ -20,7 +20,9 @@ Currently, the two most popular apps for listening to music (and finding recomme
 
 ## Inadequacy of Current Solutions to Problem
 
+
 ## Technical Background Applicable to Problem
+
 
 # Relevant Coursework
 
