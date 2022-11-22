@@ -20,15 +20,15 @@ The following task list is divided into Requirements and Desirables. The intent 
 14. Develop a feature to export the playlists generated to Spotify.
 15. Develop a feature to manage and edit the playlist after it is generated. 
 16. Develop test cases to test the different components of the application. 
-17. Refine the algorithm based on the results of these tests.
-18. Fix any glitches, bugs or issues in the Android applicaiton.  
-19. Validate all components by running the same test cases again.
-20. Document all relevant information throughout the course of this project.
+17. Refine the algorithm based on the results of these tests and fix any glitches, bugs or issues in the Android applicaiton.  
+18. Validate all components by running the same test cases again.
+19. Document all relevant information throughout the course of this project.
 
 # Desirables
-1. Develop a feature to export the playlist generated to Apple Music.
+1. Develop a feature to export the playlist generated to pther music apps such as Apple Music.
 2. Determine if this project can be extended to music in different languages and the implementation of such a feature if possible.
 3. Extend the registration feature to allow users to sign in using Google/Facebook.
 4. Determine if the project can be extended to other forms of entertainment - movies, TV-series, podcasts, etc.
 5. Develop support for importing data from user's Spotify/Apple Music profiles.
+6. Develop support for playing music from within the application.
 
