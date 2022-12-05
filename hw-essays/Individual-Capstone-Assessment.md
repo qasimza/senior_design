@@ -1,4 +1,4 @@
-# Week 3 - Individual Capstone Assessment
+# Individual Capstone Assessment
 
 ## Project Introduction
 
