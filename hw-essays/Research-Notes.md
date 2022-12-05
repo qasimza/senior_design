@@ -31,6 +31,10 @@ Edge weight - # Distinct playlists where 2 tracks co-occur; edges with weight <=
 -  Learning the representations of new tracks as early as possible is crucial for production machine learning systems.
 -  A good representation learning approach shouldleverage all available information, including both playlist co-occurrence and  content features.
 
+### Algorithmic Components divided into 2 tasks
+- Neighborhood Aggregator Step
+- Multi-Task Supervision Step
+
 ## References
 
 [1] Antonia Saravanou, Federico Tomasi, Rishabh Mehrotra and Mounia Lalmas, “Multi-Task Learning of Graph-based Inductive Representations of Music Content”, in Proceedings of the 22nd International Society for Music Information Retrieval Conference, Online, Nov. 2021, pp. 602–609. doi: 10.5281/zenodo.5624379.
