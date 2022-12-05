@@ -2,9 +2,21 @@
 
 ## 1. Team Names, Advisor and Project Abstract 
 
-## 2. User Stories and Design Diagrams 
+### Team Members
 
-## 3. Project Tasks and Timeline
+Zaina Qasim
+qasimza@mail.uc.edu
+
+### Advisor
+
+Fred Annexstein
+fred.annexstein@uc.edu
+
+### Project Abstract (hw-essays/Project-Abstract.md)
+
+## 2. Project Description (hw-essays/Project-Description.md)
+
+## 3. User Stories and Design Diagrams 
 
 ## 4. Project Tasks and Timeline
 
@@ -17,5 +29,7 @@
 ## 8. Professional Biographies
 
 ## 9. Budget
+
+So far no purchases (or plans to purchase anything) have been made
 
 ## 10. Appendix
