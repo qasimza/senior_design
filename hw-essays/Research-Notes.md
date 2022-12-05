@@ -22,10 +22,10 @@
 
 ### On Music Graph Data
 
-Let Weighted Graph, G = (V, E), where
-V = Set of Nodes; each node represents a track.
-E = Connections between tracks occuring in the same playlist.
-Edge weight - # Distinct playlists where 2 tracks co-occur; edges with weight <= 10 are excluded.
+Let Weighted Graph, G = (V, E), where  
+V = Set of Nodes; each node represents a track.  
+E = Connections between tracks occuring in the same playlist.  
+Edge weight - # Distinct playlists where 2 tracks co-occur; edges with weight <= 10 are excluded.  
 
 ## References
 
