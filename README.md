@@ -4,15 +4,15 @@
 
 ### Team Members
 
-Zaina Qasim
+**Zaina Qasim**  
 qasimza@mail.uc.edu
 
 ### Advisor
 
-Fred Annexstein
+**Fred Annexstein**  
 fred.annexstein@uc.edu
 
-### Project Abstract (hw-essays/Project-Abstract.md)
+### [Project Abstract] (hw-essays/Project-Abstract.md)
 
 ## 2. Project Description (hw-essays/Project-Description.md)
 
