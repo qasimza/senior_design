@@ -17,15 +17,17 @@ fred.annexstein@uc.edu
 ## 2. [Project Description](hw-essays/Project-Description.md)
 
 ## 3. User Stories and Design Diagrams
-[User Stories](hw-essays/User-Stories.md)
-[Design Diagrams](design-diagrams/Design%20Diagrams.pdf)
+[User Stories](hw-essays/User-Stories.md)  
+[Design Diagrams](design-diagrams/Design%20Diagrams.pdf)  
 
 ## 4. Project Tasks and Timeline
 
+[Task List](hw-essays/TaskList.md)  
+[Milestones, Timeline and Effort Matrix](hw-essays/Milestons%2C%20Timeline%20and%20Effort%20Matrix.docx)
 
-## 5. ABET Concerns Essay
+## 5. ABET Concerns Essay(hw-essays/ABET-Concerns)
 
-## 6. [PPT Slideshow](hw-essays/TuneMe%20%E2%80%93%20Music%20Prediction%20Application.pptx)
+## 6. [PPT Slideshow](hw-essays/PPT-Slideshow-TuneMe.pptx)
 
 ## 7. Self-Assessment Essays
 [Zaina Qasim](hw-essays/Individual-Capstone-Assessment.md)
@@ -37,3 +39,4 @@ fred.annexstein@uc.edu
 So far no purchases (or plans to purchase anything) have been made
 
 ## 10. Appendix
+[Resereach Notes](hw-essays/Research-Notes.md)
