@@ -18,14 +18,13 @@
 - Enables learning richer representations for increased adoption of the representations for a variety of newer downstream tasks.
 - Trained aggregator functions afford theinductive ability to the model.
 
-### 3 sources of info (above) considered for each pair of nodes.
-
 ### On Music Graph Data
 
 Let Weighted Graph, G = (V, E), where  
 V = Set of Nodes; each node represents a track.  
 E = Connections between tracks occuring in the same playlist.  
 Edge weight - # Distinct playlists where 2 tracks co-occur; edges with weight <= 10 are excluded.  
+3 sources of info (above) considered for each pair of nodes.
 
 ![MUSIG Graph](images/musig-graph.png "MUSIG Graph").
 
