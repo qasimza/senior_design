@@ -12,9 +12,11 @@ qasimza@mail.uc.edu
 **Fred Annexstein**  
 fred.annexstein@uc.edu
 
-### [Project Abstract](hw-essays/Project-Abstract.md)
+### Project Abstract
+[Click here to read more.](hw-essays/Project-Abstract.md)
 
-## 2. [Project Description](hw-essays/Project-Description.md)
+## 2. Project Description
+[Click here to read more.](hw-essays/Project-Description.md)
 
 ## 3. User Stories and Design Diagrams
 [User Stories](hw-essays/User-Stories.md)  
@@ -25,9 +27,11 @@ fred.annexstein@uc.edu
 [Task List](hw-essays/TaskList.md)  
 [Milestones, Timeline and Effort Matrix](hw-essays/Milestons%2C%20Timeline%20and%20Effort%20Matrix.docx)
 
-## 5. ABET Concerns Essay(hw-essays/ABET-Concerns)
+## 5. ABET Concerns Essay
+[Click here to read more.](hw-essays/ABET-Concerns)
 
-## 6. [PPT Slideshow](hw-essays/PPT-Slideshow-TuneMe.pptx)
+## 6. PPT Slideshow
+[Click here to view slideshow](hw-essays/PPT-Slideshow-TuneMe.pptx)
 
 ## 7. Self-Assessment Essays
 [Zaina Qasim](hw-essays/Individual-Capstone-Assessment.md)
