@@ -31,7 +31,7 @@ fred.annexstein@uc.edu
 [Click here to read more.](hw-essays/ABET-Concerns)
 
 ## 6. PPT Slideshow
-[Click here to view slideshow](hw-essays/PPT-Slideshow-TuneMe.pptx)
+[Click here to view slideshow.](hw-essays/PPT-Slideshow-TuneMe.pptx)
 
 ## 7. Self-Assessment Essays
 [Zaina Qasim](hw-essays/Individual-Capstone-Assessment.md)
