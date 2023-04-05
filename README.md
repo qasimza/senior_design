@@ -44,8 +44,8 @@ So far no purchases (or plans to purchase anything) have been made
 
 ## 10. Appendix
 [Research Notes](hw-essays/Research-Notes.md)  
-[Logo Design 1](hw-essays/images/logo_1.png)  
-[Logo Design 2](hw-essays/images/logo_2.png)  
-[Logo Design 3](hw-essays/images/logo_3.png)  
-[Logo Design 4](hw-essays/images/logo_4.png)  
-[Logo Design 5](hw-essays/images/logo_5.png)  
+[Logo Design 1](code_base/images/logo_1.png)  
+[Logo Design 2](code_base/images/logo_2.png)  
+[Logo Design 3](code_base/images/logo_3.png)  
+[Logo Design 4](code_base/images/logo_4.png)  
+[Logo Design 5](code_base/images/logo_5.png)  
