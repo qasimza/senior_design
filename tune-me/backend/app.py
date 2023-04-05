@@ -16,11 +16,16 @@ def helloWorld():
 def get_recommended_songs():
     # Get song name from URL parameter
     data = request.form
-    song_name = data['song']
+    song = data['song']
     artist = data['artist']
     year = data['year']
-    yearInt = int(year)
-    recommended_songs = recommend_songs(song_name,artist, yearInt)
+    genres = data['genres']
+    themes = data['themes']
+    advanced_search = data['advanced']
+
+    print(genres, themes, advanced_search)
+
+    recommended_songs = recommend_songs(song, artist, int(year))
 
 
     # Call your ML model to get recommended songs
