@@ -1,0 +1,20 @@
+{
+    "song": "Song Name",
+    "artist": "Artist's Name",
+    "year": "",
+    "genre": ["", "", ""],
+    "theme": ["", "", ""],
+    "advanced_search": {
+        "popularity": "0 to 100",
+        "danceability": "0 to 100",
+        "energy": "0 to 100",
+        "loudness": "-60 to 538",
+        "speechiness":"0 to 100",
+        "accoustics":"0 to 100",
+        "instrumentalness":"0 to 100",
+        "liveliness":"0 to 100",
+        "valence":"0 to 100",
+        "tempo":"0 to 246",
+        "explicit":"0 or 1"
+    }
+}

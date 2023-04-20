@@ -20,6 +20,7 @@ Currently, the two most popular apps for listening to music (and finding recomme
 
 ## Inadequacy of Current Solutions to Problem
 
+As stated previously, one of the biggest inadequecies of current solutions to the problem are that 
 
 ## Technical Background Applicable to Problem
 
